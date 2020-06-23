@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30204.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GeometryObjectsWithComposition", "GeometryObjectsWithComposition\GeometryObjectsWithComposition.csproj", "{15EA65EC-858D-47BF-B613-F7652F3BC970}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{15EA65EC-858D-47BF-B613-F7652F3BC970}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{15EA65EC-858D-47BF-B613-F7652F3BC970}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{15EA65EC-858D-47BF-B613-F7652F3BC970}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{15EA65EC-858D-47BF-B613-F7652F3BC970}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FC038105-7E45-4225-A1A2-AE1CED195316}
+	EndGlobalSection
+EndGlobal
